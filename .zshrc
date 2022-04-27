@@ -1,7 +1,7 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 # Path to your oh-my-zsh installation.
-export ZSH="/home/user/.oh-my-zsh"
+export ZSH="/home/shikistrafe/.oh-my-zsh"
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ZSH_THEME="alanpeabody"
 plugins=(git ruby node npm sudo command-not-found archlinux debian)
