@@ -6,7 +6,7 @@ export ZSH="/home/shikistrafe/.oh-my-zsh"
 ZSH_THEME="alanpeabody"
 plugins=(git ruby node npm sudo command-not-found archlinux debian)
 # source /usr/share/doc/pkgfile/command-not-found.zsh   # For Archlinux
-source /etc/command-not-found.plugin.zsh                # For Debian/Ubuntu
+# source /etc/command-not-found.plugin.zsh                # For Debian/Ubuntu
 source $ZSH/oh-my-zsh.sh
 # export LANG=en_US.UTF-8
 autoload -U compinit
