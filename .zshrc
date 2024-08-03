@@ -53,10 +53,6 @@ pk () {                                         # Zip
 		echo "'$1' не является допустимым файлом"
 fi
 }
-# Settings for pyenv
-export PYENV_ROOT="$HOME/.pyenv"
-export PATH="$PYENV_ROOT/bin:$PATH"
-eval "$(pyenv init --path)"
 
 # Aliases
 alias zshcfg="vim ~/.zshrc"
